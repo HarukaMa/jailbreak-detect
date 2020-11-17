@@ -9,3 +9,5 @@ The code here is hardcoded to look for file `/var/lib/dpkg/status`, but you can 
 Also make sure that your outer logic won't be simply bypassed by Flex.
 
 I did not invent the method.
+
+If you decide to use this method, please bear in mind that people jailbreak their devices for various reasons. I'd recommend to only use this method on critical business logic (like $$$ related parts) or abuse prevention. It's rude if you just close your doors to all jailbroken users.
