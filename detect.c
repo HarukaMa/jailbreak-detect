@@ -1,3 +1,4 @@
+#include <stdlib.h>
 
 uint32_t test() {
     char* filename = "/var/lib/dpkg/status";
